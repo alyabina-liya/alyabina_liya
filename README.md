@@ -59,7 +59,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="[[[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)](https://icons8.com/icon/9MJf0ngDwS8z/bash)" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="[[[[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)](https://icons8.com/icon/9MJf0ngDwS8z/bash)](https://www.flaticon.com/free-icon/gnu-bash_919837?term=gnu+bash&page=1&position=1&origin=tag&related_id=919837)" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
