@@ -75,7 +75,7 @@
     * Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.
 
 #### 3. 💾 Базы данных (SQL & NoSQL)
-* **[🔗 Открыть примеры запросов]()**
+* **[🔗 Открыть примеры запросов](https://github.com/alyabina-liya/sql/edit/main/README.md)**
     * MySQL (SELECT, JOIN) и MongoDB.
 
 #### 4. 📱 Мобильное тестирование
