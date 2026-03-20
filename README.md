@@ -8,7 +8,7 @@
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alyabina_liya)
+📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alyabina.liya@yandex.ru)
 
 
 ---
@@ -48,9 +48,6 @@
   
 </div>
 
----
-
-📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alyabina.liya@yandex.ru)
 
 ---
 
@@ -62,6 +59,10 @@
 | [https://stepik.org] Тестирование с 0.                          | 10/2025 - 03/2026 |
 
 --- -->
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alyabina_liya)
 
 
 
