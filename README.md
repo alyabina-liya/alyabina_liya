@@ -71,11 +71,10 @@
 
 #### 2. 🚀 API Тестирование (Postman)
 > *Коллекции запросов с автотестами*
-* **[📄 Посмотреть работы с DemoShopping Collection](https://github.com/alyabina-liya/api)**
-    * Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.
+    * [Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.](https://github.com/alyabina-liya/api)
 
-#### 3. 💾 [Базы данных (SQL & NoSQL)](https://github.com/alyabina-liya/sql)
-    * MySQL (SELECT, JOIN) и MongoDB.
+#### 3. 💾 Базы данных (SQL & NoSQL)(https://github.com/alyabina-liya/sql)
+    * [MySQL (SELECT, JOIN) и MongoDB.](https://github.com/alyabina-liya/sql)
 
 #### 4. 📱 Мобильное тестирование
 * **[🔗 Открыть Mobile-документацию]()**
