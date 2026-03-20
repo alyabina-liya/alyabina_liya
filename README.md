@@ -72,7 +72,7 @@
 #### 2. 🚀 [API Тестирование (Postman)](https://github.com/alyabina-liya/api)
     * Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.
 
-#### 3. 💾 Базы данных (SQL & NoSQL)(https://github.com/alyabina-liya/sql)
+#### 3. 💾 [Базы данных (SQL & NoSQL)](https://github.com/alyabina-liya/sql)
     * MySQL (SELECT, JOIN) и MongoDB.
 
 #### 4. 📱 Мобильное тестирование
