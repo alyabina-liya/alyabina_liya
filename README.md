@@ -71,7 +71,7 @@
 
 #### 2. 🚀 API Тестирование (Postman)
 > *Коллекции запросов с автотестами*
-* **[📄 Скачать DemoShopping Collection]()**
+* **[📄 Скачать DemoShopping Collection](https://github.com/alyabina-liya/api)**
     * Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.
 
 #### 3. 💾 Базы данных (SQL & NoSQL)
