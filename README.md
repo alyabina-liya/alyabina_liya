@@ -65,7 +65,6 @@
 ### 📂 Тестовые артефакты (Мое портфолио):
 
 #### 1. 📑 [Тестовая документация (Web)](https://github.com/alyabina-liya/documents)
-> *Проект: Интернет-магазин DemoShopping*
     * Чек-листы, Тест-кейсы, Баг-репорты.
 
 #### 2. 🚀 [API Тестирование (Postman)](https://github.com/alyabina-liya/api)
