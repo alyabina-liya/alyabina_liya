@@ -74,7 +74,7 @@
     *MySQL (SELECT, JOIN) и MongoDB.*
 
 #### 4. 📱 [Мобильное тестирование](https://github.com/alyabina-liya/mob_test/tree/main)
-    Чек-лист и баг-репорт для мобильного приложения на Android.
+    #####Чек-лист и баг-репорт для мобильного приложения на Android.
 
 ---
 
