@@ -65,16 +65,16 @@
 ### 📂 Тестовые артефакты (Мое портфолио):
 
 #### 1. 📑 [Тестовая документация (Web)](https://github.com/alyabina-liya/documents)
-    * Чек-листы, Тест-кейсы, Баг-репорты.*
+    *Чек-листы, Тест-кейсы, Баг-репорты.*
 
 #### 2. 🚀 [API Тестирование (Postman)](https://github.com/alyabina-liya/api)
-    * Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.*
+    *Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.*
 
 #### 3. 💾 [Базы данных (SQL & NoSQL)](https://github.com/alyabina-liya/sql)
-    * MySQL (SELECT, JOIN) и MongoDB.*
+    *MySQL (SELECT, JOIN) и MongoDB.*
 
 #### 4. 📱 [Мобильное тестирование](https://github.com/alyabina-liya/mob_test/tree/main)
-    * Чек-лист и баг-репорт для мобильного приложения на Android.*
+    *Чек-лист и баг-репорт для мобильного приложения на Android.*
 
 ---
 
