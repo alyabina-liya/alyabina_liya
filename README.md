@@ -69,12 +69,11 @@
 * **[🔗 Открыть Web-документацию (Google Sheets)]()**
     * Чек-листы, Тест-кейсы, Баг-репорты.
 
-#### 2. 🚀 API Тестирование (Postman)
-> *Коллекции запросов с автотестами*
-    * [Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.](https://github.com/alyabina-liya/api)
+#### 2. 🚀 [API Тестирование (Postman)](https://github.com/alyabina-liya/api)
+    * Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.
 
 #### 3. 💾 Базы данных (SQL & NoSQL)(https://github.com/alyabina-liya/sql)
-    * [MySQL (SELECT, JOIN) и MongoDB.](https://github.com/alyabina-liya/sql)
+    * MySQL (SELECT, JOIN) и MongoDB.
 
 #### 4. 📱 Мобильное тестирование
 * **[🔗 Открыть Mobile-документацию]()**
