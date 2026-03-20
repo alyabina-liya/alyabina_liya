@@ -6,8 +6,9 @@
 
 Я прошла обучение по программе "Тестирование с 0".
 
+---
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alyabina_liya)
 
 
 ---
@@ -58,10 +59,9 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| [https://stepik.org] Тестирование с 0.                          | 10/2025 - 03/2026 |
 
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alyabina_liya)
 
 
