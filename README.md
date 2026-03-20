@@ -21,14 +21,6 @@
 - 📧 **Почта:** [alyabina.liya@gmail.ru](mailto:alyabina.liya@gmail.ru) 
 - ✈️ **Telegram:** [@alliya_ph](https://t.me/alliya_ph) 
 
-<div id="badges">
-  <a href="https://t.me/RavingFan">
-    <img src="https://img.shields.io/badge/Telegram-@RavingFan-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Main"/>
-  </a>
-  <a href="mailto:dmitrii.zhludin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail.com-Написать-orange?style=for-the-badge&logo=Gmail.com&logoColor=white" alt="Gmail.com"/>
-  </a>
-</div>
 
 ---
 
