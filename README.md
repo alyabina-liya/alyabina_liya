@@ -11,7 +11,7 @@
 ### 🧠 Ключевые навыки (Hard Skills):
 
 - **Теория:** SDLC/STLC, техники тест-дизайна, клиент-серверная архитектура.
-- **Инструменты:** Jira, YouTrack, Qase, Postman, SoapUI, Charles, Fiddler, Android Studio, Xcode.
+- **Инструменты:** Qase, Postman, DevTools, Qase, MySQLWorkbench, Charles Proxy, Postman, IDEA, Android Studio, Xcode. 
 - **Базы данных и код:** SQL (MySQL, MongoDB), Git, Bash, HTML/CSS.
 
 ---
