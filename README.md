@@ -1,80 +1,189 @@
-# Привет, меня зовут Лия!
+# Привет! 👋 Меня зовут Лия
+
+### QA Engineer | Manual QA → Automation QA (Java)
+
+Начинающий QA Engineer с практическими навыками ручного тестирования веб приложений.
+Сейчас активно изучаю Java и автоматизацию тестирования (UI/API).
 
 ---
 
-### 👨‍💻 Обо мне:
+## 🚀 Сейчас изучаю
 
-Начинающий QA Engineer с теоретической базой ручного тестирования веб приложений. Постоянно развиваюсь: активно углубляюсь в Java и автоматизацию тестирования (UI / API).
-
----
-
-### 🧠 Ключевые навыки (Hard Skills):
-
-- **Теория:** SDLC/STLC, техники тест-дизайна, клиент-серверная архитектура.
-- **Инструменты:** Qase, Postman, DevTools, Qase, MySQLWorkbench, Charles Proxy, Postman, IDEA, Android Studio, Xcode. 
-- **Базы данных и код:** SQL (MySQL, MongoDB), Git, Bash, HTML/CSS.
+- Java
+- Selenium
+- REST Assured
+- JUnit 5
+- TestNG
+- Maven
 
 ---
 
-### 📫 Мои контакты:
+## 💻 Hard Skills
 
-- 📧 **Почта:** [alyabina.liya@gmail.ru](mailto:alyabina.liya@gmail.ru) 
-- ✈️ **Telegram:** [@alliya_ph](https://t.me/alliya_ph) 
+### 🧪 Testing
 
+- SDLC / STLC
+- Test Design Techniques
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- API Testing
+- Client-Server Architecture
 
----
+### 🌐 Web & API
 
-### 🛠 Мой стек технологий:
+- Postman
+- SoapUI
+- Chrome DevTools
+- Charles Proxy
 
-**📁 Тест-менеджмент:**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/YouTrack_Icon.svg" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp;
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-</div>
+### 📋 Test Management
 
-**🌐 Web и API:**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/01a331c76a011a877cf9f86b459628d4538b6937bf326c4c01d0a4ae0e041044/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476354444c6a2d3137684c75507365344b356c6f34564c4e46526e3839726a4c53422d4b4b495a4d644e6a4230512673" title="soapui" alt="soapui" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-</div>
+- Qase
+- Figma
 
-**📱 Mobile и Снифферы:**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp;
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp;
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp;
-</div>
+### 💾 Databases
 
-**💾 Данные и Код:**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-</div>
+- MySQL
+- MongoDB
+
+### 👨‍💻 Development
+
+- Java
+- Git
+- Bash
+- HTML / CSS
 
 ---
 
-### 📂 Тестовые артефакты (Мое портфолио):
+## 🛠 Tech Stack
 
-#### 1. 📑 [Тестовая документация (Web)](https://github.com/alyabina-liya/documents)
-   > Чек-листы, Тест-кейсы, Баг-репорты.
+<p>
 
-#### 2. 🚀 [API Тестирование (Postman)](https://github.com/alyabina-liya/api)
-  >  Тестирование интернет-магазина: `Products`, `Cart`, `Orders`, `Payment`.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 
-#### 3. 💾 [Базы данных (SQL & NoSQL)](https://github.com/alyabina-liya/sql)
-  >  MySQL (SELECT, JOIN) и MongoDB.
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 
-#### 4. 📱 [Мобильное тестирование](https://github.com/alyabina-liya/mob_test/tree/main)
-   > Чек-лист и баг-репорт для мобильного приложения на Android.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+
+</p>
+
+---
+
+# 📂 Portfolio
+
+## 📑 Test Documentation
+
+✔ Test Cases
+
+✔ Check Lists
+
+✔ Bug Reports
+
+🔗 https://github.com/alyabina-liya/documents
+
+---
+
+## 🚀 API Testing
+
+Интернет-магазин
+
+✔ Products
+
+✔ Cart
+
+✔ Orders
+
+✔ Payment
+
+✔ Postman Collections
+
+✔ Environment
+
+🔗 https://github.com/alyabina-liya/api
+
+---
+
+## 💾 SQL & NoSQL
+
+Практика работы с базами данных
+
+✔ SELECT
+
+✔ JOIN
+
+✔ GROUP BY
+
+✔ Subqueries
+
+✔ MongoDB
+
+🔗 https://github.com/alyabina-liya/sql
+
+---
+
+## 📱 Mobile Testing
+
+Практика тестирования Android-приложения
+
+✔ Check List
+
+✔ Bug Report
+
+🔗 https://github.com/alyabina-liya/mob_test
+
+---
+
+## 🌱 Немного обо мне
+
+Мне нравится искать причины возникновения ошибок и разбирать работу приложения до мелочей.
+
+Особенно интересно:
+
+- Web Testing
+- API Testing
+- Mobile Testing
+- Автоматизация тестирования на Java
+
+Сейчас развиваюсь в направлении Automation QA.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alyabina-liya&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyabina-liya&layout=compact)
+
+---
+
+## 📫 Контакты
+
+📧 **Email**
+
+alyabina.liya@gmail.com
+
+✈️ **Telegram**
+
+https://t.me/alliya_ph
+
+---
+
+⭐ Спасибо, что заглянули в мой профиль!
+
+
 
 ---
 
