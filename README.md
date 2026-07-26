@@ -144,28 +144,6 @@
 
 🔗 https://github.com/alyabina-liya/mob_test
 
----
-
-## 🌱 Немного обо мне
-
-Мне нравится искать причины возникновения ошибок и разбирать работу приложения до мелочей.
-
-Особенно интересно:
-
-- Web Testing
-- API Testing
-- Mobile Testing
-- Автоматизация тестирования на Java
-
-Сейчас развиваюсь в направлении Automation QA.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alyabina-liya&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyabina-liya&layout=compact)
 
 ---
 
